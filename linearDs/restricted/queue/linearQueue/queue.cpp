@@ -13,10 +13,7 @@ queue<t>::~queue() {}
 template <typename t>
 bool queue<t>::isEmpty()
 {
-    if (rear == -1)
-        return true;
-    else
-        return false;
+    return front == rear ? true : false;
 }
 
 template <typename t>
