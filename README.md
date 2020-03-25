@@ -7,4 +7,5 @@ Remaining Work :
   <li>Stack using Linked List</li>
   <li>Binary Tree using Linked List and Array</li>
   <li>Graph</li>  
+  <li>AVL tree</li>
 </ol>
